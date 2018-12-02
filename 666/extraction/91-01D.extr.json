@@ -1,0 +1,31 @@
+{
+    "beam_diameter": "4.0",
+    "cleanup_duration": 60.0,
+    "commit": "57c5de3c29051f09f2f79e727255b14a15a83d06",
+    "extract_device": "Fusions Diode",
+    "extract_duration": 45.0,
+    "extract_units": "watts",
+    "extract_value": 1.5,
+    "grain_polygon_blob": [],
+    "load_holder": "37-hole",
+    "load_name": "D0015",
+    "measured_response": "YidceGQ4XHgwNlx4YjhOXHgwMFx4MDBceDAwXHgwMFx4MDBceDk1XHgxYz5ceDAwXHgwMFx4ZmFEXHhmMiVcbkBceDAwXHgwMFx4ZmFEXHhmMD5ceDg1QFx4MDBceDAwXHhmYURDOlx4YzVAXHgwMFx4MDBceGZhRFx4ZGVceGFhXHgwMkFceDAwXHgwMFx4ZmFEXHhhY1x4ZWEiQVx4MDBceDAwXHhmYURceGQ2XHhmZUJBXHgwMFx4MDBceGZhRFx4ZjRceDE5Y0FceDAwXHgwMFx4ZmFEXHhkZlx4OGZceDgxQVx4MDBceDAwXHhmYURceGYwXHg5MVx4OTFBXHgwMFx4MDBceGZhRFx4OGNceDlhXHhhMUFceDAwXHgwMFx4ZmFEVFx4YTdceGIxQVx4MDBceDAwXHhmYURxXHhiMVx4YzFBXHgwMFx4MDBceGZhREJceGI5XHhkMUFceDAwXHgwMFx4ZmFEblx4ZGZceGUxQVx4MDBceDAwXHhmYURceDFhXHhlZVx4ZjFBXHgwMFx4MDBceGZhRCZceGY3XHgwMEJceDAwXHgwMFx4ZmFEXHhmNFx4ZmFceDA4Qlx4MDBceDAwXHhmYUQ/XHgwNlx4MTFCXHgwMFx4MDBceGZhRFx4ZjlceDBjXHgxOUJceDAwXHgwMFx4ZmFESlx4MTEhQlx4MDBceDAwXHhmYURceGU1XHgxNylCXHgwMFx4MDBceGZhRFx4ODNceDFkMUJceDAwXHgwMFx4ZmFEXHhlMSE5Qlx4MDBceDAwXHhmYURceDFhJkFCXHgwMFx4MDBceGZhRCs2SUJceDAwXHgwMFx4ZmFEJDxRQlx4MDBceDAwXHhmYUQn",
+    "pattern": "37hole_diamond.lp",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": "8",
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "requested_output": "YidceGQ4XHgwNlx4YjhOXHgwMFx4MDBceDAwXHgwMFx4MDBceDk1XHgxYz5MTFx4OTJBXHhmMiVcbkBceDAwXHgwMFx4MDBceDAwXHhmMD5ceDg1QFx4MDBceDAwXHgwMFx4MDBDOlx4YzVAXHgwMFx4MDBceDAwXHgwMFx4ZGVceGFhXHgwMkFceGE0Xlx4OTdBXHhhY1x4ZWEiQVx4YTReXHg5N0FceGQ2XHhmZUJBXHhhNF5ceDk3QVx4ZjRceDE5Y0FceGE0Xlx4OTdBXHhkZlx4OGZceDgxQVx4YTReXHg5N0FceGYwXHg5MVx4OTFBXHhhNF5ceDk3QVx4OGNceDlhXHhhMUFceGE0Xlx4OTdBVFx4YTdceGIxQVx4YTReXHg5N0FxXHhiMVx4YzFBXHhhNF5ceDk3QUJceGI5XHhkMUFceGE0Xlx4OTdBblx4ZGZceGUxQVx4YTReXHg5N0FceDFhXHhlZVx4ZjFBXHhhNF5ceDk3QSZceGY3XHgwMEJceGE0Xlx4OTdBXHhmNFx4ZmFceDA4Qlx4YTReXHg5N0E/XHgwNlx4MTFCXHhhNF5ceDk3QVx4ZjlceDBjXHgxOUJceGE0Xlx4OTdBSlx4MTEhQlx4YTReXHg5N0FceGU1XHgxNylCXHhhNF5ceDk3QVx4ODNceDFkMUJceGE0Xlx4OTdBXHhlMSE5Qlx4YTReXHg5N0FceDFhJkFCXHhhNF5ceDk3QSs2SUJceGE0Xlx4OTdBJDxRQlx4YTReXHg5N0En",
+    "setpoint_stream": "",
+    "snapshots": [],
+    "tray": "37-hole",
+    "videos": [],
+    "weight": 1.99
+}
