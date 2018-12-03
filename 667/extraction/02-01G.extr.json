@@ -1,0 +1,31 @@
+{
+    "beam_diameter": "4.0",
+    "cleanup_duration": 60.0,
+    "commit": "57c5de3c29051f09f2f79e727255b14a15a83d06",
+    "extract_device": "Fusions Diode",
+    "extract_duration": 45.0,
+    "extract_units": "watts",
+    "extract_value": 2.0,
+    "grain_polygon_blob": [],
+    "load_holder": "37-hole",
+    "load_name": "D0015",
+    "measured_response": "YidceGI3XG5ceGI4Tlx4MDBceDAwXHgwMFx4MDAgXHgxNFx4YzQ+XHgwMFx4MDBceGZhRFx4MDFceGZmXHgxOEBceDAwXHgwMFx4ZmFEXHhmNFx4YjZceDhjQFx4MDBceDAwXHhmYURceGZjXHhlNlx4Y2NAXHgwMFx4MDBceGZhRFx4YTVceDg2XHgwNkFceDAwXHgwMFx4ZmFEXHhlZVx4ODYmQVx4MDBceDAwXHhmYURceGVkXHhiYkZBXHgwMFx4MDBceGZhRERceGM3ZkFceDAwXHgwMFx4ZmFEJWpceDgzQVx4MDBceDAwXHhmYURceGMweVx4OTNBXHgwMFx4MDBceGZhRFx4YWFceDg2XHhhM0FceDAwXHgwMFx4ZmFEXHhhZVx4YWZceGIzQVx4MDBceDAwXHhmYURceDFiXHhiNVx4YzNBXHgwMFx4MDBceGZhRDxceGIzXHhkM0FceDAwXHgwMFx4ZmFEXHhmZVx4YmJceGUzQVx4MDBceDAwXHhmYURceGE1XHhjYVx4ZjNBXHgwMFx4MDBceGZhRGZceGU0XHgwMUJceDAwXHgwMFx4ZmFESFx4ZThcdEJceDAwXHgwMFx4ZmFEPlx4ZWNceDExQlx4MDBceDAwXHhmYUQzXHhlZFx4MTlCXHgwMFx4MDBceGZhRFx4MTNceGVkIUJceDAwXHgwMFx4ZmFEYVx4ZWUpQlx4MDBceDAwXHhmYUR0XHhlZDFCXHgwMFx4MDBceGZhRCc=",
+    "pattern": "",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": "",
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "ramp_duration": 10.0,
+    "ramp_rate": 0.0,
+    "requested_output": "YidceGI3XG5ceGI4Tlx4MDBceDAwXHgwMFx4MDAgXHgxNFx4YzQ+XHhkN19ceDliQVx4MDFceGZmXHgxOEBceDAwXHgwMFx4MDBceDAwXHhmNFx4YjZceDhjQFxcXlx4OWNBXHhmY1x4ZTZceGNjQFxcXlx4OWNBXHhhNVx4ODZceDA2QVxcXlx4OWNBXHhlZVx4ODYmQVxcXlx4OWNBXHhlZFx4YmJGQVxcXlx4OWNBRFx4YzdmQVxcXlx4OWNBJWpceDgzQVxcXlx4OWNBXHhjMHlceDkzQVxcXlx4OWNBXHhhYVx4ODZceGEzQVxcXlx4OWNBXHhhZVx4YWZceGIzQVxcXlx4OWNBXHgxYlx4YjVceGMzQVxcXlx4OWNBPFx4YjNceGQzQVxcXlx4OWNBXHhmZVx4YmJceGUzQVxcXlx4OWNBXHhhNVx4Y2FceGYzQVxcXlx4OWNBZlx4ZTRceDAxQlxcXlx4OWNBSFx4ZThcdEJcXF5ceDljQT5ceGVjXHgxMUJcXF5ceDljQTNceGVkXHgxOUJcXF5ceDljQVx4MTNceGVkIUJcXF5ceDljQWFceGVlKUJcXF5ceDljQXRceGVkMUJcXF5ceDljQSc=",
+    "setpoint_stream": "",
+    "snapshots": [],
+    "tray": "37-hole",
+    "videos": [],
+    "weight": 0.6
+}
