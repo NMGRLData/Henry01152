@@ -1,0 +1,31 @@
+{
+    "beam_diameter": "4.0",
+    "cleanup_duration": 60.0,
+    "commit": "57c5de3c29051f09f2f79e727255b14a15a83d06",
+    "extract_device": "Fusions Diode",
+    "extract_duration": 45.0,
+    "extract_units": "watts",
+    "extract_value": 3.0,
+    "grain_polygon_blob": [],
+    "load_holder": "37-hole",
+    "load_name": "D0015",
+    "measured_response": "YidceGM4XG5ceGI4Tlx4MDBceDAwXHgwMFx4MDBceDgwXHg5Nlx4MWY9XHgwMFx4MDBceGZhREM6XHgwM0BceDAwXHgwMFx4ZmFELjVceDgyQFx4MDBceDAwXHhmYURceDBlLlx4YzJAXHgwMFx4MDBceGZhRFx4ZWQyXHgwMUFceDAwXHgwMFx4ZmFEKUwhQVx4MDBceDAwXHhmYURceGE4X0FBXHgwMFx4MDBceGZhRFx4YzhqYUFceDAwXHgwMFx4ZmFEXHhkYVx4YjhceDgwQVx4MDBceDAwXHhmYURceDE2XHhjNVx4OTBBXHgwMFx4MDBceGZhRF1ceGQ1XHhhMEFceDAwXHgwMFx4ZmFEXHhmM1x4ZDZceGIwQVx4MDBceDAwXHhmYURceGM4XHhkOFx4YzBBXHgwMFx4MDBceGZhRFx4ZThceGU1XHhkMEFceDAwXHgwMFx4ZmFEMlx4ZTRceGUwQVx4MDBceDAwXHhmYURqXHhlMlx4ZjBBXHgwMFx4MDBceGZhRFx4YmNxXHgwMEJceDAwXHgwMFx4ZmFEXHg5ZnJceDA4Qlx4MDBceDAwXHhmYUQqdFx4MTBCXHgwMFx4MDBceGZhRCJ2XHgxOEJceDAwXHgwMFx4ZmFETHogQlx4MDBceDAwXHhmYURceDkwXHg4MihCXHgwMFx4MDBceGZhRHJceDg0MEJceDAwXHgwMFx4ZmFEXHg5Nlx4ODQ4Qlx4MDBceDAwXHhmYUQn",
+    "pattern": "",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": "",
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "ramp_duration": 10.0,
+    "ramp_rate": 0.0,
+    "requested_output": "YidceGM4XG5ceGI4Tlx4MDBceDAwXHgwMFx4MDBceDgwXHg5Nlx4MWY9XHhkMExceGExQUM6XHgwM0BceDAwXHgwMFx4MDBceDAwLjVceDgyQDwrXHhhNkFceDBlLlx4YzJAPCtceGE2QVx4ZWQyXHgwMUE8K1x4YTZBKUwhQTwrXHhhNkFceGE4X0FBPCtceGE2QVx4YzhqYUE8K1x4YTZBXHhkYVx4YjhceDgwQTwrXHhhNkFceDE2XHhjNVx4OTBBPCtceGE2QV1ceGQ1XHhhMEE8K1x4YTZBXHhmM1x4ZDZceGIwQTwrXHhhNkFceGM4XHhkOFx4YzBBPCtceGE2QVx4ZThceGU1XHhkMEE8K1x4YTZBMlx4ZTRceGUwQTwrXHhhNkFqXHhlMlx4ZjBBPCtceGE2QVx4YmNxXHgwMEI8K1x4YTZBXHg5ZnJceDA4QjwrXHhhNkEqdFx4MTBCPCtceGE2QSJ2XHgxOEI8K1x4YTZBTHogQjwrXHhhNkFceDkwXHg4MihCPCtceGE2QXJceDg0MEI8K1x4YTZBXHg5Nlx4ODQ4QjwrXHhhNkEn",
+    "setpoint_stream": "",
+    "snapshots": [],
+    "tray": "37-hole",
+    "videos": [],
+    "weight": 0.6
+}
