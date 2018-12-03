@@ -1,0 +1,221 @@
+{
+    "acquisition_software": "pychron py3/18.2",
+    "aliquot": 1,
+    "analysis_type": "unknown",
+    "analyst_name": "MHeizler",
+    "collection_version": "1.0:2.0",
+    "comment": "E:5 Biotite, ~0.6 mg",
+    "commit": "57c5de3c29051f09f2f79e727255b14a15a83d06",
+    "conditionals": [
+        {
+            "analysis_types": [],
+            "frequency": 10,
+            "hash_id": 738723528569174497,
+            "level": 10,
+            "location": "setupfiles/spectrometer/default_conditionals.yaml",
+            "ntrips": 1,
+            "start_count": 5,
+            "teststr": "L2(CDD).deflection==3250"
+        }
+    ],
+    "data_reduction_software": "pychron py3/18.2",
+    "detectors": {
+        "AX": {
+            "deflection": 0.0,
+            "gain": 1
+        },
+        "H1": {
+            "deflection": 0.0,
+            "gain": 1
+        },
+        "H2": {
+            "deflection": 0.0,
+            "gain": 1
+        },
+        "L1": {
+            "deflection": 0.0,
+            "gain": 1
+        },
+        "L2(CDD)": {
+            "deflection": 0.0,
+            "gain": 1
+        }
+    },
+    "environmental": {
+        "lab_humiditys": [
+            {
+                "device": "EnvironmentalMonitor",
+                "name": "Lab Hum.",
+                "pub_date": "2018-12-03T10:58:32",
+                "title": "iServer Hum.",
+                "value": 16.1
+            },
+            {
+                "device": "RPiWeather",
+                "name": "Lab Hum. 2",
+                "pub_date": "2018-12-03T08:28:17",
+                "title": "Base Station Hum.",
+                "value": 18.0647106170654
+            },
+            {
+                "device": "NOAA",
+                "name": "Outside Humidity",
+                "pub_date": "2018-12-03T08:24:20",
+                "title": "",
+                "value": 62.0
+            }
+        ],
+        "lab_pneumatics": [
+            {
+                "device": "AirPressure",
+                "name": "Pressure",
+                "pub_date": "2018-12-03T10:45:20",
+                "title": "Building",
+                "value": 100.7
+            },
+            {
+                "device": "AirPressure2",
+                "name": "Pressure2",
+                "pub_date": "2018-12-03T10:30:21",
+                "title": "Lab",
+                "value": 87.5
+            },
+            {
+                "device": "RPiWeather",
+                "name": "Lab Pressure",
+                "pub_date": "2018-12-03T08:21:33",
+                "title": null,
+                "value": 867.984619140625
+            }
+        ],
+        "lab_temperatures": [
+            {
+                "device": "EnvironmentalMonitor",
+                "name": "Lab Temp.",
+                "pub_date": "2018-12-03T11:04:33",
+                "title": "iServer Temp.",
+                "value": 71.9
+            },
+            {
+                "device": "Chiller",
+                "name": "Coolant Temp.",
+                "pub_date": "2018-12-03T10:55:20",
+                "title": "Coolant",
+                "value": 16.0
+            },
+            {
+                "device": "JanMonitor",
+                "name": "JanDecabinTemp",
+                "pub_date": "2018-12-03T07:14:55",
+                "title": null,
+                "value": 35.5115995115995
+            },
+            {
+                "device": "RPiWeather",
+                "name": "Lab Temp. 2",
+                "pub_date": "2018-12-03T08:28:39",
+                "title": "Base Station Temp.",
+                "value": 80.78655128479
+            },
+            {
+                "device": "RPiWeather",
+                "name": "Lab Temp. 3",
+                "pub_date": "2018-12-03T08:09:09",
+                "title": "EastDiffuser01",
+                "value": 57.0866
+            },
+            {
+                "device": "RPiWeather",
+                "name": "Lab Temp. 4",
+                "pub_date": "2018-12-03T08:08:37",
+                "title": "EastReturn02",
+                "value": 68.45
+            },
+            {
+                "device": "RPiWeather",
+                "name": "Lab Temp. 5",
+                "pub_date": "2018-12-03T08:14:11",
+                "title": "iServerCalibration03",
+                "value": 70.1366
+            },
+            {
+                "device": "RPiWeather",
+                "name": "Lab Temp. 6",
+                "pub_date": "2018-12-03T08:14:48",
+                "title": "SouthWall04",
+                "value": 66.5366
+            },
+            {
+                "device": "RPiWeather",
+                "name": "Lab Temp. 7",
+                "pub_date": "2018-12-03T07:48:23",
+                "title": "SouthWindow05",
+                "value": 58.2116
+            },
+            {
+                "device": "NOAA",
+                "name": "Outside Temp",
+                "pub_date": "2018-12-03T08:24:20",
+                "title": "Outside Temp.",
+                "value": 30.0
+            }
+        ]
+    },
+    "experiment_queue_name": "CurrentExperiment",
+    "extraction": "felix_diode.py",
+    "identifier": "66702",
+    "increment": 13,
+    "instrument_name": "",
+    "intensity_scalar": 0.0,
+    "irradiation": "NM-300",
+    "irradiation_level": "E",
+    "irradiation_position": 5,
+    "isotopes": {
+        "Ar36": {
+            "detector": "L2(CDD)",
+            "name": "Ar36",
+            "serial_id": "00000"
+        },
+        "Ar37": {
+            "detector": "L1",
+            "name": "Ar37",
+            "serial_id": "00000"
+        },
+        "Ar38": {
+            "detector": "AX",
+            "name": "Ar38",
+            "serial_id": "00000"
+        },
+        "Ar39": {
+            "detector": "H1",
+            "name": "Ar39",
+            "serial_id": "00000"
+        },
+        "Ar40": {
+            "detector": "H2",
+            "name": "Ar40",
+            "serial_id": "00000"
+        }
+    },
+    "laboratory": "",
+    "mass_spectrometer": "Felix",
+    "material": "Biotite",
+    "measurement": "felix_analysis340_60_CDD_center.py",
+    "post_equilibration": "felix_pump_extraction_line.py",
+    "post_measurement": "felix_pump_ms.py",
+    "principal_investigator": "Henry, C",
+    "project": "Henry01152",
+    "queue_conditionals_name": "",
+    "repository_identifier": "Henry01152",
+    "sample": "RHMX0048-225",
+    "source": {
+        "emission": 826.858,
+        "trap": 248.943
+    },
+    "spec_sha": "d916e50dc653b4290aef0c2e7a35fa711b24ec5f",
+    "timestamp": "2018-12-03T11:14:15.196696",
+    "tripped_conditional": null,
+    "username": "MHeizler",
+    "uuid": "829926f5-b716-4ed7-8c1f-e5cdeebf5d19",
+    "whiff_result": null
+}
