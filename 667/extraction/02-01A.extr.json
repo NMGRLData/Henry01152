@@ -1,0 +1,31 @@
+{
+    "beam_diameter": "4.0",
+    "cleanup_duration": 60.0,
+    "commit": "57c5de3c29051f09f2f79e727255b14a15a83d06",
+    "extract_device": "Fusions Diode",
+    "extract_duration": 45.0,
+    "extract_units": "watts",
+    "extract_value": 0.5,
+    "grain_polygon_blob": [],
+    "load_holder": "37-hole",
+    "load_name": "D0015",
+    "measured_response": "YidceDkyXG5ceGI4Tlx4MDBceDAwXHgwMFx4MDAwXHhkMFx4MDU/XHgwMFx4MDBceGZhRCtqIUBceDAwXHgwMFx4ZmFEXHgxNVx4YzdceDkwQFx4MDBceDAwXHhmYURceGZhXHhjMlx4ZDBAXHgwMFx4MDBceGZhRHhsXHgwOEFceDAwXHgwMFx4ZmFEWW4oQVx4MDBceDAwXHhmYURceDg2d0hBXHgwMFx4MDBceGZhRFx4YWN0aEFceDAwXHgwMFx4ZmFEXHg4MzhceDg0QVx4MDBceDAwXHhmYURceGRmPlx4OTRBXHgwMFx4MDBceGZhRFx4YTFDXHhhNEFceDAwXHgwMFx4ZmFEXHgwOEpceGI0QVx4MDBceDAwXHhmYURceGRhS1x4YzRBXHgwMFx4MDBceGZhRFx4ZmNJXHhkNEFceDAwXHgwMFx4ZmFEXHhhOEpceGU0QVx4MDBceDAwXHhmYURceGI2TVx4ZjRBXHgwMFx4MDBceGZhRGZcJ1x4MDJCXHgwMFx4MDBceGZhRH4mXG5CXHgwMFx4MDBceGZhRFx4OTUpXHgxMkJceDAwXHgwMFx4ZmFEeCxceDFhQlx4MDBceDAwXHhmYURceGU3PyJCXHgwMFx4MDBceGZhRGRMKkJceDAwXHgwMFx4ZmFEc0syQlx4MDBceDAwXHhmYUQn",
+    "pattern": "",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": "",
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "requested_output": "YidceDkyXG5ceGI4Tlx4MDBceDAwXHgwMFx4MDAwXHhkMFx4MDU/XHhkMVx4MDNceDA4QitqIUBceDAwXHgwMFx4MDBceDAwXHgxNVx4YzdceDkwQFx4Y2UlXHg4ZEFceGZhXHhjMlx4ZDBAXHhjZSVceDhkQXhsXHgwOEFceGNlJVx4OGRBWW4oQVx4Y2UlXHg4ZEFceDg2d0hBXHhjZSVceDhkQVx4YWN0aEFceGNlJVx4OGRBXHg4MzhceDg0QVx4Y2UlXHg4ZEFceGRmPlx4OTRBXHhjZSVceDhkQVx4YTFDXHhhNEFceGNlJVx4OGRBXHgwOEpceGI0QVx4Y2UlXHg4ZEFceGRhS1x4YzRBXHhjZSVceDhkQVx4ZmNJXHhkNEFceGNlJVx4OGRBXHhhOEpceGU0QVx4Y2UlXHg4ZEFceGI2TVx4ZjRBXHhjZSVceDhkQWZcJ1x4MDJCXHhjZSVceDhkQX4mXG5CXHhjZSVceDhkQVx4OTUpXHgxMkJceGNlJVx4OGRBeCxceDFhQlx4Y2UlXHg4ZEFceGU3PyJCXHhjZSVceDhkQWRMKkJceGNlJVx4OGRBc0syQlx4Y2UlXHg4ZEEn",
+    "setpoint_stream": "",
+    "snapshots": [],
+    "tray": "37-hole",
+    "videos": [],
+    "weight": 0.6
+}
